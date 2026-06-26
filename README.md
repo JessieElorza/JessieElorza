@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hi, I'm Jessie, an <a href="www.linkedin.com/in/jessie-elorza-3104901b5">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jessie, an <a href="https://www.linkedin.com/in/jessie-elorza-3104901b5/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
