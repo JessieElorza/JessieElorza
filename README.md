@@ -8,8 +8,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JessieElorza/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JessieElorza/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jessieElorza/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jessieElorza/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
@@ -19,4 +17,4 @@
 
 [twitter]: https://twitter.com/Jessie
 [instagram]: https://www.instagram.com/Jessie
-[linkedin]: https://linkedin.com/in/Jessie
+[linkedin]: https://www.linkedin.com/in/jessie-elorza-3104901b5/
