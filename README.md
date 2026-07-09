@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com/Jessie
 [instagram]: https://www.instagram.com/Jessie
-[linkedin]: www.linkedin.com/in/jessie-elorza-3104901b5
+[linkedin]: https://www.linkedin.com/in/jessie-elorza-3104901b5/
