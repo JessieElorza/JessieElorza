@@ -11,7 +11,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Jessie | Resume" width="22px" src="https://github.com/user-attachments/assets/b662609e-8f7d-4c5e-8286-9b5e5622e80e" />][Resume]
+[<img align="left" alt="Jessie | Resume" width="22px"  src="https://github.com/user-attachments/assets/f012252a-d24d-4d38-8266-0a8323fcce35" />][Resume]
 [<img align="left" alt="Jessie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jessie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
