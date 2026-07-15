@@ -15,6 +15,6 @@
 [<img align="left" alt="Jessie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jessie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[Resume]: https://twitter.com/Jessie
+[Resume]: https://Jessie's_Resume.com/Jessie
 [instagram]: https://www.instagram.com/Jessie
 [linkedin]: https://www.linkedin.com/in/jessie-elorza-3104901b5/
