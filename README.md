@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JessieElorza/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JessieElorza/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-
+  (In progress)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Jessie | Resume" width="22px"  src="https://github.com/user-attachments/assets/f012252a-d24d-4d38-8266-0a8323fcce35" />][Resume]
