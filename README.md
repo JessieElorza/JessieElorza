@@ -18,4 +18,4 @@
 
 [Resume]: https://Jessie's_Resume.com/Jessie
 [instagram]: https://www.instagram.com/Jessie
-[linkedin]: href="https://www.linkedin.com/in/jessie-elorza-3104901b5/"
+[linkedin]: https://www.linkedin.com/in/jessie-elorza-url/
