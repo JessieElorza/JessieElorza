@@ -16,6 +16,6 @@
 [<img align="left" alt="Jessie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jessie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[Resume]: https://Jessie's_Resume.com/Jessie
+[Resume]: [Jessie Elorza - Help Desk - Resume.pdf](https://github.com/user-attachments/files/30308108/Jessie.Elorza.-.Help.Desk.-.Resume.pdf)
 [instagram]: https://www.instagram.com/Jessie
 [linkedin]: https://www.linkedin.com/in/jessie-elorza-url/
