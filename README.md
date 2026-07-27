@@ -7,8 +7,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JessieElorza/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JessieElorza/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JessieElorza/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JessieElorza/configure-ad)
+- <b>Active Directory</b>
+  - Step 1[Configuring On-premises Active Directory within Azure VMs](https://github.com/JessieElorza/configure-ad)
   
 <h2>🤳Connect with me:</h2>
 
