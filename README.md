@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JessieElorza/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Step 1: Active Directory: Preparing AD Infrastructure in Azure](https://github.com/JessieElorza/configure-ad)
-  - [Step 2: Active Directory: Deploying Active Directory](https://github.com/JessieElorza/)
+  - [Step 2: Active Directory: Deploying Active Directory](https://github.com/JessieElorza/Deploy_Active_Directory)
     
 <h2>🤳Connect with me:</h2>
 
