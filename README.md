@@ -10,6 +10,7 @@
 - <b>Active Directory</b>
   - [Step 1: Active Directory: Preparing AD Infrastructure in Azure](https://github.com/JessieElorza/configure-ad)
   - [Step 2: Active Directory: Deploying Active Directory](https://github.com/JessieElorza/Deploy_Active_Directory)
+  - [Step 3: Active Directory: Managing Accounts and Use/Cases Examples](https://github.com/JessieElorza/)
     
 <h2>🤳Connect with me:</h2>
 
