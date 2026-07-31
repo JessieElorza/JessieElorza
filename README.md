@@ -20,6 +20,6 @@
 
 [Resume]: https://github.com/user-attachments/files/30308108/Jessie.Elorza.-.Help.Desk.-.Resume.pdf
 
-[instagram]: https://www.instagram.com/Jessie
+[instagram]: https://www.instagram.com/
 
 [linkedin]: https://www.linkedin.com/in/jessie-elorza-url/
